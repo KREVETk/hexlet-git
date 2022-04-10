@@ -1,0 +1,3 @@
+cd hexlet-git 
+git init
+echo 'Hello, Hexlet!'>hexlet-git 
